@@ -1,7 +1,9 @@
 <template>
-  <FColorPicker></FColorPicker>
+  <div></div>
 </template>
 
 <script lang="ts" setup>
-import FColorPicker from '@/components/f-color-picker/IndexView'
 </script>
+<style lang="less">
+
+</style>
